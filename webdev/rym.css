@@ -1,0 +1,123 @@
+header {
+    height: auto;
+    width: auto;
+    font-size: 100%;
+    font-family: "ProximaNova", sans-serif;
+}
+
+nav {
+    height: 30px;
+    width: auto;
+    box-shadow: 0 4px 8px 0 rgba(83, 109, 123, 0.2);
+}
+
+nav ul {
+    list-style-type: none;
+    width:auto;
+    height:auto;
+}
+
+#list1 li {
+    float: left;
+    position: relative;
+    left: 1.3%;
+    bottom: 8.34vh;
+    margin: 0.7%;
+}
+
+a:link{
+    color: #3971c6;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #3971c6;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #74abe2;
+    background: gainsboro;
+    text-decoration: none;
+}
+
+a:active{
+    color: #74abe2;
+    background-color: gainsboro;
+    text-decoration: none;
+}
+
+#logo {
+    width: 2.2%;
+    position: relative;
+    left: 1.6%;
+    top: -0.6vh;
+}
+
+#list2 li {
+    position: relative;
+    left: 3%;
+    height: auto;
+}
+
+#list2 li input {
+    background: #ebeef0;
+    border-style: none;
+    border-radius: 2rem;
+    position: relative;
+    height: 3.4vh;
+    width: 60.45%;
+    top: -9.67vh;
+}
+
+#list3 li {
+    height: auto;
+    width: auto;
+}
+
+#list3 li a {
+    position: relative;
+    top: -15.1vh; 
+    left: 95.3%;
+}
+
+#cover {
+    width: 33%;
+    position: relative;
+    left: -31%;
+}
+
+#text {
+    padding-left: 35.5%;
+    position: absolute;
+    top: 7%;
+}
+
+#info {
+    font-size: 104%;
+}
+
+#follow {
+    position: relative;
+    top: 4vh;
+    width: 10%;
+    height: 4vh;
+}
+
+#numbers {
+    position: relative;
+    top: 4.2vh;
+    left: 2%;
+}
+
+#coverText {
+    position: absolute;
+    top: 71%;
+    left: 12.5%;
+}
+
+#coverText p {
+    text-shadow: 0 0 3px #000000, 0 0 5px black;
+    color: white;
+    font-size: 90%;
+}
